@@ -8,4 +8,3 @@ expandButton?.addEventListener('click', function() {
   document.body.classList.toggle('is-expanded')
 })
 
-<script src="https://kit.fontawesome.com/17387b08f2.js" crossorigin="anonymous"></script>
